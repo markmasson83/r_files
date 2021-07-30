@@ -1,4 +1,5 @@
 ###rm(list = ls())
+#data found at https://www.kaggle.com/hmavrodiev/london-bike-sharing-dataset
 #load in dataset
 getwd()
 
