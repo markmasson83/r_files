@@ -1,5 +1,7 @@
 rm(churn)
 
+#file found at https://www.kaggle.com/blastchar/telco-customer-churn
+
 setwd("C:/Users/markmasson/Desktop/R Work")
 churn <- read.csv("WA_Fn-UseC_-Telco-Customer-Churn.csv", header = TRUE, stringsAsFactors = TRUE)
 
